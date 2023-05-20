@@ -1,1 +1,1 @@
-
+Este archivo se creo con la finalidad de explicar como crear un repositorio nuevo en GitHub
